@@ -1,4 +1,4 @@
-##  Program 2:Write a code to display to  calculate two numerical values 
+##  Program 2: Write a code to display to  calculate two numerical values 
 ```
 #include<stdio.h>
 int main() 
