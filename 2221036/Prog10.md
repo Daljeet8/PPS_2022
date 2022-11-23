@@ -13,4 +13,5 @@ printf("department of");
 printf("information technology");
 return  0;
 }
-```
+```C
+**Output: department of technology**
