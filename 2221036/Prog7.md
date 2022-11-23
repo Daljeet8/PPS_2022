@@ -1,4 +1,4 @@
-## Program 7 : Write a code to display list of numbers less than 10 
+## Program 7 : Write a code to display while loop statement .
 ```C
 #include<stdio.h>
 int main()
