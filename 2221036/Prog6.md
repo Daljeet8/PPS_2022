@@ -1,4 +1,4 @@
-## Program 6: Write a code to display i am sorry 10 times
+## Program 6: Write a code to display for loop statement.
 ```C
 #include<stdio.h>
 int main()
