@@ -1,4 +1,4 @@
-### Program : Write a code to display  ASCII charater code .
+### Program : Write a code to display  ASCII  value for charater variable .
 ```C
 #include<stdio.h>
 int main()
