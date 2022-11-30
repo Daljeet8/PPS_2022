@@ -1,4 +1,4 @@
-## Program 17: Write a code to disply the use of  array. 
+## Program 16: Write a code to disply the use of  array. 
 ```C
 #include <stdio.h>
 int main()
