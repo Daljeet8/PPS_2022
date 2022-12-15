@@ -1,4 +1,4 @@
-## Program 23 : Write a code to display .
+## Program 22 : Write a code to display .
 ```C
 #include <stdio.h>
 int main ()
