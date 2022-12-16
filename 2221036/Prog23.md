@@ -1,4 +1,4 @@
-## Program 23 : Write a code to display if else 
+## Program 23 : Tutorial program #8 
 ```C 
 #include <stdio.h>
 int main ()
