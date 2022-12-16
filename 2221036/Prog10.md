@@ -1,4 +1,4 @@
-### Program : Write a code to display goto  program .
+### Program 10 : Write a code to display goto  program .
 ```C
 #include<stdio.h>
 int main()
