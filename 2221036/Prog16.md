@@ -1,4 +1,4 @@
-## Program 17 : Write a code to display  use of printf and scanf.
+## Program 17 : Tutorial Program #1
 ```C
 #include <stdio.h>
 int main()
