@@ -1,4 +1,4 @@
-## Program 18 : Write a code to display  use of flaot  datatype .
+## Program 17 : Tutorial Program #2 .
 ```C
 #include <stdio.h>
 int main()
