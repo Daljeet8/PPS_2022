@@ -1,4 +1,4 @@
-## Program 20 : Write a code to display ......
+## Program 19 : Tutorial Program #4.
 ```C
 #include <stdio.h>
 int main ()
