@@ -1,4 +1,4 @@
- ## Program 24 : Write a code to display to check prime number .
+ ## Program 24 : Write a code to display to check if given number is prime .
  ```C
  #include <stdio.h>
 int main ()
