@@ -1,4 +1,4 @@
- ## Program 21 : Write a code to disply use of relational operators.
+ ## Program 22 : Tutorial Program #7
 ```C
 #include <stdio.h>
 int main()
