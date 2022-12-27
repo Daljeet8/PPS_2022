@@ -29,7 +29,7 @@ int main ()
 ** Output : Enter your number to check - 72
             72 is not prime number . 
             
-            Enter a number  to check 43
+            Enter a number to check 43
             43 is prime number .
             
             Enter a number to check - 110
