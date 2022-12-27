@@ -15,4 +15,4 @@ int add( int a , int b );
           return ( a+ b);
       }
 ```C
-**Output : 50 **
+**Output: 50 **
