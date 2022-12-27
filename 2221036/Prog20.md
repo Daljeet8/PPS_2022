@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main ()
 {
-    int x =100 , y= 200 ;
+    int x =100 , y = 200 ;
     printf (" %d",( x>y)? x: y);
     return 0;
 }
