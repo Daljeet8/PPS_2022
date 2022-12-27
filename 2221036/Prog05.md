@@ -12,7 +12,7 @@ int main()
  printf("You are not able to get a ticket");
  return 0;
 }
-** Output : Enter your money **
+** Output :  Enter your money **
 
 
 
