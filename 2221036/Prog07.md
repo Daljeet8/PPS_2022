@@ -11,7 +11,7 @@ i++;
 }
 return 0;
 ```C
-** Output : 4
+**Output : 4
 5
 6
 7
