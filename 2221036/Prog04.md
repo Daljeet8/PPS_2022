@@ -1,7 +1,7 @@
 ##  Program 4 : Write  a code to display username and roll no.
 ```
 #include<stdio.h>
-int main()
+int main ()
 {
   char a[20];
   int b;
