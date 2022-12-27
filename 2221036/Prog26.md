@@ -2,8 +2,7 @@
 ```C
 #include<stdio.h>
 // Program to calculate factorial of a number
-
-long int fact(int n)
+ int fact(int n)
 {
 if (n<=1)
 return 1;
