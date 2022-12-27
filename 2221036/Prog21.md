@@ -10,4 +10,4 @@ int main ()
   printf (" false");
   return 0;
 }
-** Output : true **
+** Output : True **
