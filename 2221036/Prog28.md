@@ -1,4 +1,4 @@
-## Program 28 :  Write a Program  using string lenght.
+## Program 28 :  Write a Program  using string lenght .
 ```C
 #include <stdio.h>
 #include <string.h>
