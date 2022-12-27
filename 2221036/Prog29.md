@@ -6,7 +6,7 @@ int main ()
 {
     char a1[]= " I am a student of";
      char a2[]= " Guru Nanak Dev Engineering college";
-     if ( strcmp ( a1,a2)==0)
+     if ( strcmp ( a1 ,a2)==0)
      {
          printf (" String 1 and string 2 are equal ");
      }
