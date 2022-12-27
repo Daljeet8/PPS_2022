@@ -10,5 +10,5 @@ int main()
   return 0;
 }
 ```C
-** Output :  Please enter a suitable character d
+** Output :   Please enter a suitable character d
             The character you entered is d**
