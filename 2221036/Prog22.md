@@ -9,7 +9,7 @@ int main()
     return 0 ;
 }
 ```C 
-** Output : 1**
+** Output : 1 **
 
 
 
