@@ -1,4 +1,4 @@
-## Program 27 : Write a program to check if a string  is palindromic .
+## Program 27 : Write a  program to check if a string  is palindromic .
 ```C
 #include <stdio.h>
 #include<string.h>
