@@ -1,4 +1,4 @@
-## Program 30 : Write a program using string copy function .
+## Program 30 : Write a program  using string copy function .
 ```C
 #include<stdio.h>
 #include<string.h>
