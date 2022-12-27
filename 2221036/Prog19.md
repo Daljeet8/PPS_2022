@@ -1,7 +1,7 @@
 ## Program 19 : Tutorial Program #4.
 ```C
 #include <stdio.h>
-int main ()
+int main()
 {
     float age1;
     double age2;
