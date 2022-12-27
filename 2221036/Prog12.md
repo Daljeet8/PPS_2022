@@ -12,4 +12,4 @@ int main()
 ```C
 ** Output : bitwise AND operator = A & B = 8
   bitwise OR operator = A | B = 29
-  bitwise XOR operator = A ^ B = 21**
+  bitwise XOR operator = A ^ B  = 21**
